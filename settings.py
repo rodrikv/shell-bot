@@ -27,7 +27,6 @@ SC_MENU_ITEM_ROWS = (
     ),
     (
         ('ls -lha', 'ls -lha'),
-        ('Demo Script', 'demo.py', True),
     ),
 )
 

@@ -3,7 +3,6 @@ upload/
 *.sqlite3
 vendor/
 *.swp
-settings.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
